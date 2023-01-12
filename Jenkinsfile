@@ -11,7 +11,6 @@ pipeline {
     stage('build from maven') {
       steps {
         tool 'maven-3.8.7'
-        sh 'clean package'
       }
     }
 
