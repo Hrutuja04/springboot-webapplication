@@ -27,13 +27,7 @@
 				<groupId>org.sonatype.plugins</groupId>
 				<artifactId>nexus-staging-maven-plugin</artifactId>
 				<version>3.0.2</version>
-				
-				
-                              
-                              
-                               <groupId>org.apache.maven.plugins</groupId>
-                               <artifactId>maven-compiler-plugin</artifactId>
-                               <version>3.9.0</version>
+		
                                   
 
 					<executions>
